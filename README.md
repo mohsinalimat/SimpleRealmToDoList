@@ -6,10 +6,10 @@ This app was built in under 24 hours as a challange for an internship opportunit
 The model is built using the Realm database backend which allows data to persist in a simple and efficient manner. 
 
 ## Features
-[x] Add Tasks
-[x] Realm integration
-[x] Delete Tasks
-[x] Edit Tasks
-[x] Search Tasks
-[x] Filter Tasks
+* [x] Add Tasks
+* [x] Realm integration
+* [x] Delete Tasks
+* [x] Edit Tasks
+* [x] Search Tasks
+* [x] Filter Tasks
 
